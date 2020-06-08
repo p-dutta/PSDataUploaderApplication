@@ -1,0 +1,6 @@
+C:\inetpub\wwwroot\PSCoreZte\PSCoreZte\bin\Debug\PSCoreZte.exe.config
+C:\inetpub\wwwroot\PSCoreZte\PSCoreZte\bin\Debug\PSCoreZte.exe
+C:\inetpub\wwwroot\PSCoreZte\PSCoreZte\bin\Debug\PSCoreZte.pdb
+C:\inetpub\wwwroot\PSCoreZte\PSCoreZte\obj\Debug\PSCoreZte.exe
+C:\inetpub\wwwroot\PSCoreZte\PSCoreZte\obj\Debug\PSCoreZte.pdb
+C:\inetpub\wwwroot\PSCoreZte\PSCoreZte\bin\Debug\MySql.Data.dll
